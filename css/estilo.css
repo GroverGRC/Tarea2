@@ -1,0 +1,75 @@
+.principal{
+    background-color: rgb(63, 5, 255);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cajap1{
+    background-color: rgb(4, 249, 249);
+    width: 430px;
+    height: 750px;
+    margin: 7px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float: left;
+    margin: auto;
+    margin-top: 10px;
+}
+.cajap2{
+    background-color: rgb(4, 249, 249);
+    width: 430px;
+    height: 750px;
+    margin: 7px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float: left;
+    margin: auto;
+    margin-top: 10px;
+}
+.cajap3{
+    background-color: rgb(4, 249, 249);
+    width: 430px;
+    height: 750px;
+    margin: 7px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float: left;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cudrado1{
+    background-color: rgb(233, 245, 4);
+    width: 135px;
+    height: 150px;
+    margin: 4px;
+    float: left;
+}
+.cudrado2{
+    background-color: rgb(233, 245, 4);
+    width: 135px;
+    height: 150px;
+    margin: 4px;
+    float: left;
+}
+.recta1{
+    background-color: rgb(36, 241, 4);
+    width: 419px;
+    height: 132px;
+    margin: 5px;
+    float: left;
+}
+.caja2-2{
+    background-color: rgb(249, 163, 4);
+    width: 410px;
+    height: 138px;
+    margin: 10px;
+}
+.cub{
+    background-color: rgb(251, 3, 177);
+    width: 99px;
+    height: 99px;
+    margin: 4px;
+    float: left;
+}
+
